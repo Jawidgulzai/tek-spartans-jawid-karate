@@ -7,7 +7,7 @@
     Scenario: Create new account
       Given url BASE_URL
       Given path "/api/accounts/add-primary-account"
-      * def email = "mohammad_instructor2517@tekschool.us"
+      * def email = "jawid_g@gmail.com"
       Given request
         """
         {

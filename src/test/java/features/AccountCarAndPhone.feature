@@ -37,7 +37,7 @@ Feature: Testing adding car and phone to an account
         "make": "Ford",
         "model": "Mustang",
         "year": "2024",
-        "licensePlate": "ABCD1234"
+        "licensePlate": "ABED1234"
       }
       """
     When method post
